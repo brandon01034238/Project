@@ -91,5 +91,6 @@ public class LinearEquationLogic {
         }
 
         System.out.println("End");
+
     }
 }
