@@ -66,5 +66,6 @@ public class LinearEquation {
         System.out.println("The distance between these points is " + distance);
         return "";
 
+
     }
 }
